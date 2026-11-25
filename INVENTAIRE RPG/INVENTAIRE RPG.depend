@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1795158921 source:c:\users\hp\documents\inventaire rpg\ft_lstadd_back.c
+	"list.h"
+
+1795158717 source:c:\users\hp\documents\inventaire rpg\ft_lstclear.c
+	"list.h"
+
+1795158717 source:c:\users\hp\documents\inventaire rpg\ft_lstdelone.c
+	<stdlib.h>
+	"list.h"
+
+1795158400 source:c:\users\hp\documents\inventaire rpg\ft_lstnew.c
+	<stdlib.h>
+	"list.h"
+
+1794993847 source:c:\users\hp\documents\inventaire rpg\ft_lstsize.c
+	"list.h"
+
+1795160602 source:c:\users\hp\documents\inventaire rpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"objet.h"
+
+1794985655 source:c:\users\hp\documents\inventaire rpg\makefile.c
+
+1795159143 c:\users\hp\documents\inventaire rpg\list.h
+	<stddef.h>
+
+1795435299 c:\users\hp\documents\inventaire rpg\objet.h
+
+1795161016 source:c:\users\hp\documents\inventaire rpg\ft_lstiter.c
+	"list.h"
+
